@@ -2,4 +2,4 @@ plugins {
     id "com.gradle.enterprise" version "3.4"
 }
 
-rootProject.name = 'gradle-build-scan-quickstart'
+rootProject.name = 'gradle-java-jenkins'
